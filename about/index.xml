@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on oney.us</title>
-    <link>http://www.oney.us/about/</link>
+    <link>https://www.oney.us/about/</link>
     <description>Recent content in Abouts on oney.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.oney.us/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.oney.us/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://www.oney.us/about/index/</link>
+      <link>https://www.oney.us/about/index/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.oney.us/about/index/</guid>
+      <guid>https://www.oney.us/about/index/</guid>
       <description>Github: theoneandoney</description>
     </item>
     
