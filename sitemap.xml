@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.oney.us/</loc>
-    <lastmod>2022-12-22T07:13:09-07:00</lastmod>
-  </url><url>
-    <loc>https://www.oney.us/posts/</loc>
-    <lastmod>2022-12-22T07:13:09-07:00</lastmod>
-  </url><url>
-    <loc>https://www.oney.us/posts/seasons-greetings/</loc>
-    <lastmod>2022-12-22T07:13:09-07:00</lastmod>
-  </url><url>
     <loc>https://www.oney.us/about/index/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.oney.us/about/</loc>
+    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.oney.us/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.oney.us/categories/</loc>
