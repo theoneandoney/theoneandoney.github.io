@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>oney.us</title>
-    <link>https://www.oney.us/</link>
-    <description>Recent content on oney.us</description>
+    <title>Posts on oney.us</title>
+    <link>https://www.oney.us/posts/</link>
+    <description>Recent content in Posts on oney.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Dec 2022 17:32:29 -0700</lastBuildDate><atom:link href="https://www.oney.us/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 17:32:29 -0700</lastBuildDate><atom:link href="https://www.oney.us/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season&#39;s Greetings</title>
       <link>https://www.oney.us/posts/my-first-post/</link>
@@ -14,16 +14,6 @@
       
       <guid>https://www.oney.us/posts/my-first-post/</guid>
       <description>What better time than the Holidays to make my first post to this site? Maybe in 2023 I&amp;rsquo;ll start actually using this!</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://www.oney.us/about/index/</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.oney.us/about/index/</guid>
-      <description>Github: theoneandoney
-Mastodon: @ryanoney@hachyderm.io</description>
     </item>
     
   </channel>
